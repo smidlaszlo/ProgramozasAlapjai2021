@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="42_Ciklusok_iteraciok/42_Ciklusok_iteraciok.cbp" />
+		<Project filename="43_Hatvanyertek/43_Hatvanyertek.cbp" />
+		<Project filename="43_Hatvanyertek2/43_Hatvanyertek2.cbp" />
+		<Project filename="44_Karakter_beolvasasa/44_Karakter_beolvasasa.cbp" />
+		<Project filename="51_Telefonhasznalat_szamlazasa/51_Telefonhasznalat_szamlazasa.cbp" />
+		<Project filename="52_Szokoev_intervallum/52_Szokoev_intervallum.cbp" />
+		<Project filename="53_Karaktervizsgalat/53_Karaktervizsgalat.cbp" />
+		<Project filename="54_Primszam/54_Primszam.cbp" />
+		<Project filename="55_Primszam_Euler_sor/55_Primszam_Euler_sor.cbp" />
+		<Project filename="56_Szorzat_mertani_atlag/56_Szorzat_mertani_atlag.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
